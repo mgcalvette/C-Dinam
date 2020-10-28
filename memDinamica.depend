@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1539821166 source:/home/alumno/Escritorio/fede/Mem_Dinamica/memDinamica/empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1539821155 /home/alumno/Escritorio/fede/Mem_Dinamica/memDinamica/empleado.h
+
+1539902522 source:/home/alumno/Escritorio/fede/Mem_Dinamica/memDinamica/main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	"service.h"
+	"user.h"
+	"clientes.h"
+
+1539822500 source:/home/alumno/Escritorio/fede/Mem_Dinamica/memDinamica/service.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"service.h"
+
+1539822803 /home/alumno/Escritorio/fede/Mem_Dinamica/memDinamica/service.h
+
+1539823499 source:/home/alumno/Escritorio/fede/Mem_Dinamica/memDinamica/user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+
+1539823632 /home/alumno/Escritorio/fede/Mem_Dinamica/memDinamica/user.h
+
+1539902428 source:/home/alumno/Escritorio/fede/Mem_Dinamica/memDinamica/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+
+1539902554 /home/alumno/Escritorio/fede/Mem_Dinamica/memDinamica/clientes.h
+
